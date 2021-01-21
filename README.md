@@ -1,2 +1,4 @@
 # Intro-to-Terminal
-![](cli-intro.gif)
+
+
+![gif](Assets/cli-intro.gif)
